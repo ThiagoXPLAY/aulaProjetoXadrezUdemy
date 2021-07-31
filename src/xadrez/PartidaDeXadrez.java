@@ -24,9 +24,13 @@ public class PartidaDeXadrez {
         return mat;
     }
     
+    private void ColocarNovaPeca(char coluna, int linha, PecaXadrez peca){
+        tabuleiro.ColocarPeca(peca, new XadrezPosicao(coluna, linha).toPosicao());
+    }
+    
     private void iniciarPartida(){
-        tabuleiro.ColocarPeca(new Torre(Cor.BRANCO, tabuleiro), new Posicao(2, 1));
-        tabuleiro.ColocarPeca(new Rei(Cor.PRETO, tabuleiro), new Posicao(0, 3));
-        tabuleiro.ColocarPeca(new Rei(Cor.BRANCO, tabuleiro), new Posicao(7, 4));
+        ColocarNovaPeca('b', 6, new Torre(Cor.BRANCO, tabuleiro));
+        ColocarNovaPeca('e', 8, new Rei(Cor.PRETO, tabuleiro));
+        ColocarNovaPeca('e', 1, new Rei(Cor.BRANCO, tabuleiro));
     }
 }
