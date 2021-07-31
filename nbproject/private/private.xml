@@ -6,14 +6,16 @@
             <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/xadrez/Cor.java</file>
             <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/xadrez/PecaXadrez.java</file>
             <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/aplicacao/Programa.java</file>
+            <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/boardgame/Posicao.java</file>
+            <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/xadrez/PartidaDeXadrez.java</file>
+            <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/xadrez/pecas/Rei.java</file>
+            <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/xadrez/XadrezException.java</file>
             <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/xadrez/pecas/Torre.java</file>
             <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/boardgame/Peca.java</file>
-            <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/boardgame/Posicao.java</file>
             <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/boardgame/Tabuleiro.java</file>
-            <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/xadrez/PartidaDeXadrez.java</file>
             <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/aplicacao/UI.java</file>
             <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/boardgame/TabuleiroException.java</file>
-            <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/xadrez/pecas/Rei.java</file>
+            <file>file:/C:/Users/Thiago/OneDrive/Documents/NetBeansProjects/Xadrez/src/xadrez/XadrezPosicao.java</file>
         </group>
     </open-files>
 </project-private>
